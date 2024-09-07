@@ -42,6 +42,12 @@ a{
     padding:50px;
 }
 
+.movie-border{
+    border-radius: 50px;
+    border: solid 5px white;
+    margin:10px;
+}
+
 /* footer */
 .footer {
     box-shadow: inset 0 0 20px red;
