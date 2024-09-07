@@ -14,15 +14,20 @@ a{
     text-decoration-line: none; /*링크 밑 줄 지우기 */
 }
 
+:root{
+    background-color: black;
+}
+
 /* header */
 .header {
-    box-shadow: inset 0 0 20px red;
+    background-color: white;
     height: 100px;
+    border-bottom: 10px solid red;
 
     position: relative;
 }
 .header-text{
-    color:aqua;
+    color:red;
     font-size: 35px;
 
     position: absolute;
@@ -45,6 +50,7 @@ a{
     justify-content: center;
 }
 
-.game-link{
-    color: red;
+.img-size{
+    width: 100px;
+    height: 100px;
 }
