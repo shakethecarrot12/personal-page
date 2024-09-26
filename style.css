@@ -34,6 +34,18 @@ a{
     left: 47%;
     top: 30%;
 }
+/* menu */
+.menu{
+    display: flex;
+    justify-content: center;
+    gap:200px;
+    padding:20px;
+}
+.menu-text{
+    color: #ffffff;
+    font-size: 20px;
+    
+}
 
 /* main */
 .main {
