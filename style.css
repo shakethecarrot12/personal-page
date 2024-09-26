@@ -44,7 +44,10 @@ a{
 .menu-text{
     color: #ffffff;
     font-size: 20px;
-    
+}
+
+.menu-text:hover{
+    color: red;
 }
 
 /* main */
